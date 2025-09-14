@@ -23,7 +23,8 @@ Each project includes a PDF report with configuration steps, screenshots, and co
 - 🎓 2nd-year IT student, specializing in **Cybersecurity Engineering**  
 - 📜 Certified: **CompTIA Security+**  
 - 📚 Currently preparing for: **CCNA** and **SOC Level 1 (TryHackMe)**  
-- 💡 Interests: network security, penetration testing, SOC analysis  
+- 💡 Interests: network security, penetration testing, SOC analysis
+-  💼 Professional experience: working as an **IT Engineer** with a focus on troubleshooting and supporting **Cisco** and **Fortinet** network devices for large enterprise environments 
 
 ---
 
