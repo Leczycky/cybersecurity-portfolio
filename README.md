@@ -10,7 +10,7 @@ Each project includes a PDF report with configuration steps, screenshots, and co
 ### 🔹 Linux Server Hardening (Basic)
 - Goal: Apply essential hardening measures to a fresh Ubuntu server.  
 - Key tasks: user management, SSH configuration, firewall setup (UFW), Fail2Ban.  
-- [📄 Report PDF](./cybersecurity-portfolio/Linux_Server_Hardening_Basic.pdf)
+- [📄 Report PDF](./Linux Server Hardening (Basic).pdf)
 
 ### 🔹 VPN Setup & Secure Remote Access (WireGuard)
 - Goal: Configure a secure VPN tunnel between a Windows 11 client and an Ubuntu server.  
